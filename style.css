@@ -20,7 +20,7 @@ body{
     padding: 20px 25px ;
     text-align: center;
     margin: 10px auto ;
-    /* margin-bottom: auto; */
+
 }
 
 
@@ -29,7 +29,6 @@ body{
 }
 
 .heading h1{
-    /* position: absolute; */
     color: #fff;
     text-align: center;
     margin-top:5%;
@@ -52,6 +51,7 @@ body{
     color: #555;
     padding: 5px 15px ;
     height:45px;
+    width:100%;
     border-radius: 30px;
     flex: 1;
     margin-right: 16px;
